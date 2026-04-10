@@ -1,0 +1,11 @@
+sku_id,product_name,category,price
+S001,Cow Milk 1L,Dairy,62
+S002,Toned Milk 500ml,Dairy,28
+S003,Paneer 200g,Dairy,90
+S004,Curd 400g,Dairy,45
+S005,Premium Tea 250g,Beverage,120
+S006,Fruit Juice 1L,Beverage,99
+S007,Basmati Rice 5kg,Staples,340
+S008,Atta Wheat 10kg,Staples,420
+S009,Refined Oil 1L,Staples,135
+S010,Namkeen 200g,Snacks,30

@@ -1,0 +1,12 @@
+# ignore large data files
+raw/data/transactions.csv
+raw/data/users.csv
+
+# ignore Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ignore OS files
+.DS_Store
+Thumbs.db

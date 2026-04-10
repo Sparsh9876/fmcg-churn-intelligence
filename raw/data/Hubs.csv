@@ -1,0 +1,10 @@
+hub_id,hub_name,city,state,tier
+H01,Delhi Central,Delhi,Delhi,Tier-1
+H02,Noida Sector,Noida,UP,Tier-1
+H03,Gurgaon Hub,Gurgaon,Haryana,Tier-1
+H04,Ghaziabad Zone,Ghaziabad,UP,Tier-2
+H05,Faridabad Hub,Faridabad,Haryana,Tier-2
+H06,Greater Noida,Gr. Noida,UP,Tier-2
+H07,Meerut Zone,Meerut,UP,Tier-3
+H08,Agra Hub,Agra,UP,Tier-3
+H09,Lucknow Central,Lucknow,UP,Tier-1
