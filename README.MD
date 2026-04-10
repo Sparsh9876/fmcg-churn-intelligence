@@ -1,4 +1,4 @@
-# 🛒 FMCG Customer Churn Intelligence Platform
+ # 🛒 FMCG Customer Churn Intelligence Platform
 
 > **Identifying ₹2.1Cr in at-risk wallet revenue across 250,000+ loyalty users using SQL, Python, and Tableau**
 
@@ -217,7 +217,7 @@ Defines 4 PostgreSQL tables matching the CSV structure:
 ---
 
 ## 👤 Author
-
+ 
 **Sparsh Bhatnagar**
 Data Analytics Professional | MCA (ML & AI) — Amity University
 [LinkedIn](https://www.linkedin.com/in/sparshbhatnagar/) | Ghaziabad, India
