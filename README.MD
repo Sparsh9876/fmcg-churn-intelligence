@@ -219,7 +219,7 @@ Defines 4 PostgreSQL tables matching the CSV structure:
 ## 👤 Author
  
 **Sparsh Bhatnagar**
-Data Analytics Professional | MCA (ML & AI) — Amity University
+ Data Analytics Professional | MCA (ML & AI) — Amity University
 [LinkedIn](https://www.linkedin.com/in/sparshbhatnagar/) | Ghaziabad, India
 [![Email](https://img.shields.io/badge/Email-Reach%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Sparsh.Bhatnagar13@gmail.com)
 [![Tableau](https://img.shields.io/badge/Tableau-Live%20Dashboard-E97627?style=flat&logo=tableau&logoColor=white)]( https://public.tableau.com/views/FMCG-Churn-Intelligence/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
