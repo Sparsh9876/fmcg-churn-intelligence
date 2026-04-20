@@ -215,7 +215,7 @@ Defines 4 PostgreSQL tables matching the CSV structure:
 | BI Dashboard | Tableau Public (2 dashboards) |
 | Version Control | Git · GitHub |
 ---
-
+    
 ## 👤 Author
  
 **Sparsh Bhatnagar**
