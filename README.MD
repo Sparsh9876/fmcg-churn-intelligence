@@ -8,7 +8,7 @@
 
 ## 🎯 Business Problem
 
-An FMCG company running a loyalty wallet program across 9 NCR Delhi hubs has **no visibility into which customers are silently churning** — and what that means in lost wallet revenue. The business needs a system to proactively flag at-risk users before they go dormant.
+An FMCG company running a loyalty wallet program across 9 NCR Delhi hubs has **no visibility into which customers are silently churning** — and what that means in lost wallet revenue. The  business needs a system to proactively flag at-risk users before they go dormant.
 
 **Questions this project answers:**
 - Which hubs have the highest churn concentration?
